@@ -1,6 +1,4 @@
 # ML_Algorithms
-1. Regression Example
-2. Logistic Regression Example
-3. Clustering Example
-4. Decision Tree Example
-5. Random Forest Example
+1. Decision Tree Example
+2. Random Forest Example
+3. Support Vector Machine Example
